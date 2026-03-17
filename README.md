@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## oaosawa
+
+C#が好きですが仕事ではPHPを書いています(?)  
+最近proじゃなくても良くねと思い始めてる次第
+
+![](https://komarev.com/ghpvc/?username=oaosawa)
+
+
 <!--
 **oaosawa/oaosawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
